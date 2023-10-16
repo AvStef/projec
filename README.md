@@ -1,6 +1,6 @@
 # My data science progect
 ## overview my progect and skill
-From the [SF ds curse](https://skillfactory.ru/data-scientist) and pet-progect
+From the [SF ds curse](https://skillfactory.ru/data-scientist) and [pet-progect](https://github.com/AvStef/projec/tree/main/PET)
 
 ## Проекты
 
